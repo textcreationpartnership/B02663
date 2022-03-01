@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devil of Deptford. Being a true relation of the strange disturbances, ludicrous feats, and malicious pranks of an evil spirit in the house of Mr. G. living in Back-Lane at Deptford near London, in April and May 1699. The truth whereof is known, and can be attested by a great number of the inhabitants of that town. / Published to prevent false reports.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02663</idno>
+            <idno type="STC">Wing D1219A</idno>
+            <idno type="STC">ESTC R174537</idno>
+            <idno type="EEBO-CITATION">47012393</idno>
+            <idno type="OCLC">ocm 47012393</idno>
+            <idno type="VID">174363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174363)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2686:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devil of Deptford. Being a true relation of the strange disturbances, ludicrous feats, and malicious pranks of an evil spirit in the house of Mr. G. living in Back-Lane at Deptford near London, in April and May 1699. The truth whereof is known, and can be attested by a great number of the inhabitants of that town. / Published to prevent false reports.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Crouch ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poltergeists --  England --  17th century.</term>
+               <term>Spirits --  England --  17th century.</term>
+               <term>Supernatural (Theology) --  England --  17th century.</term>
+               <term>Deptford (London, England) --  Supernatural --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174363:1"/>
+            <head>
+               <hi>The Devil of Deptford.</hi> Being a true Relation of the ſtrange Diſturbances, Ludicrous Feats, and Ma<g ref="char:EOLhyphen"/>licious Pranks of an Evil Spirit in the Houſe of Mr. <hi>G.</hi> living in <hi>Back-Lane</hi> at <hi>Deptford</hi> near <hi>London,</hi> in <hi>April</hi> and <hi>May,</hi> 1699.</head>
+            <head type="sub">The Truth whereof is known, and can be atteſted by a great number of the Inhabitants of that Town.</head>
+            <head type="sub">Publiſhed to prevent falſe Reports.</head>
+            <p>THough the Sadduces and Atheiſts of this Age have the confident vanity to deny the Being of Spirits, and affirm that all the Stories concerning them, and the Feats performed by them, are either Fabulous, or elſe are to be aſcribed only to Natural Cauſes; yet this fond Opinions have been undeniably confuted by ſe<g ref="char:EOLhyphen"/>veral Learned and Ingenious Men.</p>
+            <p>And as the Examples of former Ages, ſo the Prodigious Accidents that have happened in theſe, and ſome of our Neighbouring Nations, make it evident be<g ref="char:EOLhyphen"/>yond contradiction, that there are Evil Spirits of Devils, which do infeſt this low<g ref="char:EOLhyphen"/>er World;and of which we have a freſh convincing Argument in the following Inſtance: All the particulars whereof were acted, not in the Dark, or at Midnight but at Noon-day in the face of the Sun, it the Sight of a great many Perſons; and the effects thereof were felt by divers of the Family.</p>
+            <p>I will not pretend to give an Account of every little Accident that happened, but only relate thoe that were moſt obſervable, and occurred to the Memory of the Parties concerned therein; which take as follows.</p>
+            <p>Upon <hi>Saturday, April</hi> 25, 1699. at the Houſe of Mr. <hi>G.</hi> a Gentleman well known, living in <hi>Back-Lane</hi> at <hi>Deptford</hi> in <hi>Kint,</hi> about Twelve a Clock at Noon, a Stone was thrown againſt the Parlour Window next to the Street, which break<g ref="char:EOLhyphen"/>ing the Glaſs came into the Room. The Boys that were in the Street were charg<g ref="char:EOLhyphen"/>ed with doing it, but they all denyed it; when inſtantly another Stone was thrown, which broke the Glaſs likewſe, and fell into the Room: Soon after for many days together a great number of Stones were thrown againſt the back and ſide Windows next the Garden, ſeeming to come from the Fields behind; which battered the Glaſs and Lead in ſuch a ſtrange manner as if torn and rent with a ſtorm of Wind or Hail. The Stones ſtill continuing to be thrown, the window ſhutters were put to; but then the battery ſeemed to the renewed with more fury, and one of the Shutters was ſhattered to pieces with a great Stone. At length they nailed up ſtrong deal Boards on the outſide of the broken Windows; after which the Diſturbance ceaſed from without, but began within the Houſe. One time all the China Cups and Glaſſes were removed from the Mantle-piece in the Parlour, and ſet on the Floor, At another time ſeveral Earthen Plates and Diſhes were broken to ſhievers, which being laid together by the Gentlewoman were thrown at them with great force, ſo that they were obliged to carry them out of the Houſe: Several Pewter Plates were ſeen to come out of the Kitchin, be<g ref="char:EOLhyphen"/>low Stairs, into the Parlour of themſelves: An Iron heater moved up Stairs into the Bedchamber, and was thrown at the Gentlewomans head, ſtriking her under the Ear ſo hard that the Blood came; and while ſhe was ſurprized at the blow, it roſe again from the Floor, and ſtruck her on the other ſide of the Head. After this the Maid carries it into the Garden, and about an hour after they being at din<g ref="char:EOLhyphen"/>ner, the ſame Heater was ſeen by the Gentleman to come in at the Parlour door, and ſtruck his wife the third time upon her Collar-bone, which pain'd her a conſi<g ref="char:EOLhyphen"/>derable time. A ſmall Runlet or Barrel of about 4 Gallons came out of the Cel<g ref="char:EOLhyphen"/>lar, to the Stair head; a Gentleman being <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e, kickt it down again, but the Maid going down ſoon after, me the Cask coming up again, with the Head up<g ref="char:EOLhyphen"/>permoſt; and the Cask was ſeen to move by the Gentleman of the Houſe, and another after it came up: A Candle and Candleſtick being left in the Dining Room, which was locked, was thrown up Stairs, and they looking out at the noiſe found it there, and yet the Door continued locked as before: A large Book
+<pb facs="tcp:174363:2"/>was thrown down 2 Pair of Stairs: Part of a Loaf of Bread was conveyed from its place, and after long fearch was at laſt found hid under a Kettle in the Cellar: Some Butter in a Pan was thrown into the Dirt, and the Pan broke to pieces: A little Book came of it ſelf out of a Drawer in the Chamber, and croſſing the Room about two foot from the Ground, however all the way as if blown along, fell at the Gentlewomans feet; who carryed it back to the ſame place, but ſaw it im<g ref="char:EOLhyphen"/>mediately come out of the Drawer again and approach her. This was repeated 5 times ſucceſſively, ſhe carrying it back, and that ſtill returning again; till at length it was gone out of the Drawer ſhe knew not how nor where; but ſome<g ref="char:EOLhyphen"/>time after found it in the Corner of a Cloſet. A Hat and Hatcaſe likewiſe march<g ref="char:EOLhyphen"/>ed about the Room without Human aid: A ſmall ſtool riſe from the ground and fell upon a Cheſt of Drawers, and after ſome time jumpt off again, and ſtood upon the feet as before: Candles, Tobacco Pipes, and an Head-Block were likewiſe moved about viſibly without hands: And ſome Sauſages or Links being carryed up ſtairs for ſecurity, on a ſudden began to be on their march down Stairs; a young Maid ſeeing them ſtir, cryed out, <hi>Stop the Links,</hi> and ſtrove to catch them, but they were too nimble for her, and became inſtantly inviſible; but upon ſtrict ſearch were found in a corner of the Cellar all over dirty; however being well waſhed and fryed, the Gentleman and his Wife made their Suppers on them, and found no inconvenience; though they were diſſwaded therefrom ſince it was not known through what infernal hands they had paſſed: The Gentlewoman one time opening her Trunk where her Cloaths lay, ſomething ſeemed to heave them up, as if a Cat had been underneath: The like accident happened to the Maids Trunk and Cloaths, though nothing was to be found. The Linnen likewiſe in the Cheſt of Drawers was often rumpled, tho' laid never ſo ſmooth; and one day the whole Cheſt of Drawers was turn'd with the bottom upwards. The Beds, tho' made in the morning, would be diſorder'd, and the Cloths thrown off 2 or 3 times in a day, and the Pillows carried down Stairs.</p>
+            <p>The Gentleman walking in his Garden with his hands behind him had a Stone thrown therein; and the Gentlewoman ſeeing a Stone coming toward her catcht it with her hand: They were often ſtruck with the Stones, but without much damage. It is computed there were no leſs than a Thouſand Stones thrown into and about the Houſe, within the Month wherein this Diſturbance continued. They ſet watches about the Streets, Fields and Gardens adjacent to obſerve whether any perſon was ſeen to throw them, but they could perceive none; and yet at that ſame time the Stones were ſeen to flie againſt the Houſe as faſt as be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>At firſt the Gentleman got ſome Friends to ſit up all Night, Praying and Reading; but in a few Days they obſerved that the Noiſe ceaſed every Night about Eleven a Clock, and began again about Eight Next Morning, ſo that no<g ref="char:EOLhyphen"/>thing diſturbed their Reſt. They alſo found in the Day time, that the more Company they had the leſs they were troubled.</p>
+            <p>Some Reverend Divines were there to enquire into the particulars of this ſtrange Diſturbance, and were fully ſatisfied that it could be only the effect of an Inviſible and Supernatural Power, and altogether unaccountable to Humane Reaſon.</p>
+            <p>This Diſturbance began about Ten Days after one Perſon came into the Fa<g ref="char:EOLhyphen"/>mily, who continued there about five weeks, and then went away; the very ſame day all the Diſturbance ceaſed, and all has continued quiet, without the leaſt noiſe or trouble ever ſince.</p>
+            <p>If any deſire to be ſatisfied of the Truth of this Account, the whole Town of <hi>Deptford,</hi> almoſt, will be Vouchers for the reality thereof; and the Ruins that this Infernal Battery has made on the Windows are ſtill viſible to any that will pleaſe to viſit the Houſe.</p>
+            <p>And what can we now imagine our Witty Infidels will object againſt this plain matter of Fact, or how can they deny Inviſible Powers, when the Effects of them are ſo apparent. We may therefore conclude that they only pretend to the Un<g ref="char:EOLhyphen"/>believers in their own defence; and ſince their Lewd Lives make them doubt<g ref="char:EOLhyphen"/>ful of obtaining Eternal Happineſs, they ſtrive to fortifie their Minds againſt all the Arguments offered toprove a future Judgment: And becauſe they live like Brutes, only gratifying their ſinful Luſts and Appetites, they hope, and would perſwade themſelves they ſhall likewiſe Die like Beaſts. But let them remem<g ref="char:EOLhyphen"/>ber there is nothing more certain than, <hi>That for all theſe things God will bring them into Judgment.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Nath. Crouch <hi>at the</hi> Bell <hi>in the</hi> Poultrey, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
